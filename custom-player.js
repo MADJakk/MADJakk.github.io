@@ -153,6 +153,24 @@ function setTime() {
     </div>
   </div>
 
+<div class="player">
+      <video controls="controls" width="550"  height="310">
+      <source src="AYFS 2017 Halloween Episode 13 Smaller.mp4" type="video/mp4">
+      <!-- fallback content here -->
+    </video>
+    <div class="controls">
+      <button class="play" data-icon="P" aria-label="play pause toggle"></button>
+      <button class="stop" data-icon="S" aria-label="stop"></button>
+      <div class="timer">
+        <div></div>
+        <span aria-label="timer">00:00</span>
+      </div>
+      <button class="rwd" data-icon="B" aria-label="rewind"></button>
+      <button class="fwd" data-icon="F" aria-label="fast forward"></button>
+    </div>
+  </div>
+
+
     </div>
   </div>
   </div>
