@@ -248,10 +248,7 @@ button:active {
   color: red;
 }
 
-@media only screen and (max-device-width: 480px) {
-        div#wrapper {
-          width: 400px;
-        }
+
 
 div#header {
     background-image: url(media-queries-phone.jpg);
