@@ -35,8 +35,8 @@ a {
   border: 0;
   width: 100%;
   background-color: #DC143C;
-  height: 60px;
-  line-height: 20px;
+  height: 40px;
+  line-height: 40px;
   position: fixed;
   top: 15;
   z-index: 99;
