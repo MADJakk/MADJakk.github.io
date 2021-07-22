@@ -30,7 +30,7 @@ a {
   float: right;
 }
 #header {
-  margin: 0;
+  margin: 50;
   padding: 0;
   border: 0;
   width: 100%;
@@ -100,7 +100,7 @@ a:hover {
 }
 
 .post {
-  max-width: 700px;
+  max-width: 800px;
   margin: 0 auto;
   padding: 60px 0;
 }
