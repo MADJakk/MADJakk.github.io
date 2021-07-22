@@ -30,12 +30,12 @@ a {
   float: right;
 }
 #header {
-  margin: 50;
+  margin: 0;
   padding: 0;
   border: 0;
   width: 100%;
   background-color: #DC143C;
-  height: 100px;
+  height: 30px;
   line-height: 30px;
   position: fixed;
   top: 0;
