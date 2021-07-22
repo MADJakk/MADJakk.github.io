@@ -32,10 +32,10 @@ a {
 #header {
   margin: 0;
   padding: 0;
-  border: 100px;
+  border: 0;
   width: 100%;
   background-color: #DC143C;
-  height: 50px;
+  height: 100px;
   line-height: 30px;
   position: fixed;
   top: 0;
