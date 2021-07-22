@@ -16,7 +16,7 @@ li {
 
 a {
   display: inline;
-  padding: 60px;
+  padding: 8px;
   background-color: inherit;
   height: 30px
 }
@@ -118,7 +118,7 @@ a:hover {
 }
 
 .post-author img {
-  max-width: 100px;
+  max-width: 300px;
   height:100px;
   vertical-align: middle;
 }
