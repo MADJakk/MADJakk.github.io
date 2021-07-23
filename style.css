@@ -32,7 +32,7 @@ a {
 #header {
   margin: 0;
   padding: 0;
-  border: 30;
+  border: 0;
   width: 100;
   background-color: #DC143C;
   height: 50px;
