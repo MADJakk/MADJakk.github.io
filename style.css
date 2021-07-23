@@ -33,9 +33,9 @@ a {
   margin: 0;
   padding: 0;
   border: 30;
-  width: 100%;
+  width: 100;
   background-color: #DC143C;
-  height: 30px;
+  height: 50px;
   line-height: 30px;
   position: fixed;
   top: 0;
