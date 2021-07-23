@@ -31,8 +31,8 @@ a {
 }
 #header {
   margin: 0;
-  padding: 10;
-  border: 20;
+  padding: 0;
+  border: 30;
   width: 100%;
   background-color: #DC143C;
   height: 30px;
