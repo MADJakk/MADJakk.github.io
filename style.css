@@ -28,7 +28,7 @@ a {
   float: right;
 }
 #header {
-  margin: 0;
+  margin-top: 0;
   padding: 0;
   border: 0;
   width: 100;
@@ -36,7 +36,6 @@ a {
   height: 50px;
   line-height: 30px;
   position: fixed;
-  top: 0;
   z-index: 99;
 }
 
