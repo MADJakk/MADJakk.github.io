@@ -22,6 +22,7 @@ a {
 #header-nav li {
   display: inline;
   padding-left: 8px;
+  height: 50px;
 }
 
 #header-nav {
