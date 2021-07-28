@@ -35,7 +35,7 @@ a {
   background-color: #DC143C;
   height: 70px;
   line-height: 30px;
-  position: static;
+  position: relative;
   z-index: 100;
 }
 
