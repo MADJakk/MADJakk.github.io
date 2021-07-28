@@ -33,8 +33,8 @@ a {
   border: 0;
   width: 100;
   background-color: #DC143C;
-  height: 70px 0;
-  line-height: 30px;
+  height: 70px;
+  line-height: 12px;
   position: fixed;
   z-index: 99;
 }
