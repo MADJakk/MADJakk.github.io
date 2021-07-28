@@ -28,6 +28,8 @@ a {
   float: right;
 }
 #header {
+  max-width: 1000px;
+  margin: 0 auto;
   margin-top: 0;
   padding: 0;
   border: 0;
