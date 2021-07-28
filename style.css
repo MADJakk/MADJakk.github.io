@@ -33,7 +33,7 @@ a {
   border: 0;
   width: 100;
   background-color: #DC143C;
-  height: 60px;
+  height: 70px 0;
   line-height: 30px;
   position: fixed;
   z-index: 99;
