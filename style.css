@@ -50,6 +50,19 @@ div#header h1 {
   display: inline;
   float: right;
 }
+
+.div#header.header { 
+  margin-top: 0;
+  padding: 0;
+  border: 0;
+  width: 100%;
+  background-color: #DC143C;
+  height: 50px;
+  line-height: 30px;
+  position: fixed;
+  z-index: 99;
+}
+
 #header {
   margin-top: 0;
   padding: 0;
