@@ -28,12 +28,10 @@ a {
   float: right;
 }
 #header {
-  max-width: 1000px;
   margin: 0 auto;
-  margin-top: 0;
   padding: 0;
   border: 0;
-  width: 100;
+  width: 100px;
   background-color: #DC143C;
   height: 70px;
   line-height: 30px;
