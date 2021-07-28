@@ -18,6 +18,29 @@ a {
   padding: 8px;
   background-color: inherit;
 }
+
+div#header {
+    background-image: url(media-queries-phone.jpg);
+    height: 93px;
+    position: relative;
+}
+
+div#header h1 {
+  font-size: 140%;
+}
+
+#content {
+  float: none;
+  width: 100%;
+}
+
+#navigation {
+  float: none;
+  width: auto;
+  }
+
+
+
 #header-nav li {
   display: inline;
   padding-left: 8px;
@@ -266,4 +289,4 @@ div#header h1 {
   float: none;
   width: auto;
   }
-}
+
