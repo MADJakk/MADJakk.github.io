@@ -22,7 +22,7 @@ a {
 div#header {
     background-image: url(media-queries-phone.jpg);
     height: 93px;
-    position: relative;
+    position: fixed;
 }
 
 div#header h1 {
