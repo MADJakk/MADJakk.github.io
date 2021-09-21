@@ -271,14 +271,14 @@ button:active {
   color: red;
 }
 
-@media screen and (min-width: 480px) {
+@media screen and (min-width: 480px and max-width: 800px) {
 
-img {
+img.responsive. {
  width: 100%;
  height: auto;
  }
 
-video {
+video.responsive {
  width: 100%;
  height: auto;
  }
