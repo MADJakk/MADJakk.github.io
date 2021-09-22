@@ -272,16 +272,3 @@ button:active {
 }
 
 @media screen and (min-width: 480px and max-width: 800px) {
-
-  <style= "text/css">
-img {
- width: 100%;
- height: auto;
- }
-
-video {
- width: 100%;
- height: auto;
- }
-  </style>
-}
