@@ -271,6 +271,6 @@ button:active {
   color: red;
 }
 
-@media screen and (min-width: 480px and max-width: 800px) {
+@media screen and (min-width: 480px) and (max-width: 800px) {
 
 }
