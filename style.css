@@ -143,7 +143,12 @@ a:hover {
 .post-author img {
   max-width: 100px;
   height:100px;
-  vertical-align: middle;
+  horizontal-align: middle;
+}
+@media screen and (min-width: 480px) and (max-width: 800px) {
+img {
+display: block;
+}
 }
 
 .post-author span {
