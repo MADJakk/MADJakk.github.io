@@ -146,9 +146,10 @@ a:hover {
   horizontal-align: middle;
 }
 @media screen and (min-width: 480px) and (max-width: 800px) {
-img {
-display: block;
-}
+  .img {
+  height: 20px;
+  weight: 20px;
+  }
 }
 
 .post-author span {
