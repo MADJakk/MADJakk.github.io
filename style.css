@@ -146,9 +146,9 @@ a:hover {
   horizontal-align: middle;
 }
 @media screen and (min-width: 480px) and (max-width: 800px) {
-  .post-author img {
+  .img {
   height: 100px;
-  max-width: 100px;
+  min-width: 100px;
   }
 }
 
