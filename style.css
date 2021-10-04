@@ -145,12 +145,6 @@ a:hover {
   height:100px;
   horizontal-align: middle;
 }
-@media screen and (min-width: 480px) and (max-width: 800px) {
-  .img {
-  height: 100px;
-  min-width: 100px;
-  }
-}
 
 .post-author span {
   margin-left: 16px;
@@ -275,8 +269,4 @@ button:active {
 
 .active:before {
   color: red;
-}
-
-@media screen and (min-width: 480px) and (max-width: 800px) {
-
 }
