@@ -35,6 +35,17 @@ div#header h1 {
   width: 100%;
 }
 
+
+@media screen and (max-width: 480px) {
+    h1 {
+      font-size: 32px;
+      margin: 0 0 8px 0;
+    }
+    h2 {
+      font-size: 18px;
+    }
+    
+
 #navigation {
   float: none;
   width: auto;
