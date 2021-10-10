@@ -36,16 +36,6 @@ div#header h1 {
 }
 
 
-@media screen and (max-width: 480px) {
-    h1 {
-      font-size: 32px;
-      margin: 0 0 8px 0;
-    }
-    h2 {
-      font-size: 18px;
-    }
-    
-
 #navigation {
   float: none;
   width: auto;
@@ -281,3 +271,15 @@ button:active {
 .active:before {
   color: red;
 }
+
+
+
+@media screen and (max-width: 480px) {
+    h1 {
+      font-size: 32px;
+      margin: 0 0 8px 0;
+    }
+    h2 {
+      font-size: 18px;
+    }
+    
