@@ -95,9 +95,8 @@ div#header h1 {
   background-color: #000080;
   height: 390px;
   line-height: 10px;
-  width: 100%;
-  margin: 0;
-  border: 0;
+  margin: 2rem 0 0;
+  padding: 1.25rem;
 }
 
 .column {
