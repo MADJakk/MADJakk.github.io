@@ -99,6 +99,7 @@ div#header h1 {
   width: 100%;
   padding: 0 0;
   position: fixed;
+  z-index: 99;
 }
 
 .column {
