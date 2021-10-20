@@ -98,7 +98,7 @@ div#header h1 {
   bottom: 0;
   width: 100%;
   padding: 0 0;
-  z-index: 99;
+  z-index: 50;
 }
 
 .column {
