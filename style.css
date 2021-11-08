@@ -96,7 +96,9 @@ div#header h1 {
   height: 390px;
   line-height: 10px;
   width: 100%;
-  margin: 0, 0, 0, 0;
+  position: fixed;
+  box-sizing: border-box;
+  bottom: 0;
 }
 
 .column {
