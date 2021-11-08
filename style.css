@@ -98,7 +98,8 @@ div#header h1 {
   line-height: 10px;
   width: 100%;
   box-sizing: border-box;
-  bottom: 0;
+  padding: 30px, 50px;
+  margin; 0, 0;
 }
 
 .column {
