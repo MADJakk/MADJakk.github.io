@@ -87,8 +87,8 @@ div#header h1 {
 
 .container {
   max-width: 1000px;
-  margin: 0 auto;
-  padding:20px;
+  margin: 0, 0, 0, 0;
+  padding: 20px, 30, 20, 30;
 }
 
 #footer {
