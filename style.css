@@ -85,10 +85,11 @@ div#header h1 {
   font-weight: bold;
 }
 
+/*body*/
 .container {
   max-width: 1000px;
   margin: 0, 0, 0, 0;
-  padding: 20px, 30, 20, 30;
+  padding: 20px;
 }
 
 #footer {
