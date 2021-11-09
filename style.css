@@ -98,6 +98,11 @@ div#header h1 {
   line-height: 10px;
 }
 
+.main-footer {
+  background-color: #000080;
+  padding: 20px 5%;
+}
+
 .column {
   min-width: 300px;
   display: inline-block;
