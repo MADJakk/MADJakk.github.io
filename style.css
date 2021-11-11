@@ -96,11 +96,7 @@ div#header h1 {
   background-color: #000080;
   height: 390px;
   line-height: 10px;
-}
-
-.main-footer {
-  background-color: #000080;
-  padding: 20px 5%;
+  margin: 0, -227px, -20px, -35px;
 }
 
 .column {
