@@ -99,6 +99,7 @@ div#header h1 {
   left: 0;
   position: fixed;
   width: 100%;
+   margin: 0px;
   
 }
 
