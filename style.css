@@ -98,8 +98,9 @@ div#header h1 {
   line-height: 10px;
 }
 
-footer {
+.footer {
   margin: 0;
+  padding: 20;
 }
 
 .column {
