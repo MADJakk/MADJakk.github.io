@@ -92,13 +92,14 @@ div#header h1 {
   padding: 20px;
 }
 
-div #footer container {
+div #footer {
   background-color: #000080;
   height: 390px;
   line-height: 10px;
   left: 0;
   position: fixed;
   width: 100%;
+  border: 0px;
 }
 
 .column {
