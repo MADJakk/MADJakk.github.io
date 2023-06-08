@@ -18,105 +18,22 @@ a {
   background-color: inherit;
 }
 
-div#header {
-    background-image: url(media-queries-phone.jpg);
-    height: 93px;
-    position: relative;
-}
-
-div#header h1 {
-  font-size: 140%;
-}
-
-#content {
-  float: none;
-  width: 100%;
-}
-
-
-#navigation {
-  float: none;
-  width: auto;
-  }
 
 
 
-#header-nav li {
-  display: inline;
-  padding-left: 8px;
-}
 
-#header-nav {
-  display: inline;
-  float: right;
-}
 
-#header {
-  margin-top: 0;
-  padding: 15px;
-  border: 0;
-  width: 100%;
-  background-color: #DC143C;
-  height: 50px;
-  line-height: 30px;
-  position: fixed;
-  z-index: 99;
-}
 
-#header a {
-  color: white;
-  text-decoration: none;
 
-  text-transform: uppercase;
-  letter-spacing: 0.1em;
-}
 
-#header a:hover {
-  color: #222;
-}
 
-#header-title {
-  display: inline;
-  float: left;
-  height: 50px;
-  font-size: 20px;
-  font-weight: bold;
-}
 
-/*body*/
-.container {
-  max-width: 1000px;
-  margin: 0, 0, 0, 0;
-  padding: 20px;
-}
 
- div, #footer {
-  background-color: #000080;
-  height: 390px;
-  line-height: 10px;
-  left: 0;
-  position: fixed;
-  width: 100%;
-   margin: 0px;
-  
-}
 
-.column {
-  min-width: 300px;
-  display: inline-block;
-  vertical-align: top;
-}
 
-#footer h4 {
-  color: white;
-  text-transform: uppercase;
-  letter-spacing: 0.1em;
-}
 
-#footer p {
-  color: white;
 
-}
+
 
 a {
   color: white;
@@ -127,43 +44,11 @@ a:hover {
   color: #F6A623;
 }
 
-.post {
-  max-width: 800px;
-  margin: 0 auto;
-  padding: 60px 0;
-}
 
-.about img {
-  max-width: 300px;
-  margin: 0 auto;
-  padding: 60px 0;
-}
 
-.contact img {
-  max-width: 300px;
-  margin: 0 auto;
-  padding: 60px 0;
-}
 
-.post-author img {
-  max-width: 100px;
-  height:100px;
-  horizontal-align: middle;
-}
 
-.post-author span {
-  margin-left: 16px;
-}
 
-.post-date {
-  color: #D2D2D2;
-
-  font-size: 14px;
-  font-weight: bold;
-
-  text-transform: uppercase;
-  letter-spacing: 0.1em;
-}
 
 h1, h2, h3, h4 {
   color: #333;
