@@ -2,9 +2,34 @@
 body {
   color: #555;
   margin: 0;
+  font size: 2.5em;
+  display: grid;
+  grid-template-columns: auto;
+  grid-template-rows: 50px 50px 50px 50;
+  grid-template-areas: "head" "nav" "main" "foot";
+}
 
-  font-family: 'Montserrat',
-  sans-serif;
+header, nav, main, footer {
+  text-align: center;
+}
+
+header {
+  grid-area: head;
+}
+
+nav {
+  grid-area: nav;
+}
+
+main {
+  grid-area: main;
+}
+
+footer {
+  padding: 42px;
+  position: fixed;
+  botton: 0;
+  width: 100%;
 }
 
 li {
@@ -18,23 +43,6 @@ a {
   background-color: inherit;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 a {
   color: white;
   text-decoration: none;
@@ -44,12 +52,6 @@ a:hover {
   color: #F6A623;
 }
 
-
-
-
-
-
-
 h1, h2, h3, h4 {
   color: #333;
 }
@@ -58,12 +60,7 @@ p {
   line-height: 1.5;
 }
 
-
-
-
-
-
-
+/*
 .controls {
   visibility: hidden;
   opacity: 0.5;
@@ -160,4 +157,4 @@ button:active {
 .active:before {
   color: red;
 }
-
+*/
