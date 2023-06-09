@@ -15,18 +15,23 @@ header, nav, main, footer {
 
 header {
   grid-area: head;
+  background: #FF0000;
 }
 
 nav {
   grid-area: nav;
+  background: #FFFF00;
 }
 
 main {
   grid-area: main;
+  background: #FFFFFF;
 }
 
 footer {
+  grid-area: footer;
   padding: 42px;
+  background: #0000FF;
   position: fixed;
   botton: 0;
   width: 100%;
