@@ -1,9 +1,37 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
+  
   <title>My Blog</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+      * {
+          box-sizing: border-box;
+    }
+
+      .row::after {
+        content: "";
+        clear: both;
+        display: table;
+      }
+
+      [class*="col-"] {
+        float: left;
+        padding: 15px;
+      }
+
+      html {
+        font-family: "Lucas Sans", sans-serf;
+      }
+
+      .header {
+        background-color: #ED2939;
+        color: #ffffff;
+        padding: 15px;
+      }
+
+      
+  </style>
 <link rel="stylesheet" href="style.css">
 
 </head>
